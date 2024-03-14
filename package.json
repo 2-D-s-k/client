@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "proxy": "https://azure-server.azurewebsites.net",
+  "proxy": "https://cloud2194.azurewebsites.net/api/products",
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.4",
     "@radix-ui/react-checkbox": "^1.0.4",
